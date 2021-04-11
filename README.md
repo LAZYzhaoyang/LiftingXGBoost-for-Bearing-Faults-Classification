@@ -7,6 +7,6 @@ Final code
 
 Upgraded to TensorFlow 2.1
 
-The paper has been published in IEEE Transactions ON Instrumentation AND Measurement
+The paper has been published in IEEE Transactions on Instrumentation and Measurement
 
 DOI: 10.1109 / TIM. 2020.3042315
