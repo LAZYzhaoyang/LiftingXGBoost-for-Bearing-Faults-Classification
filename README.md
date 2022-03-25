@@ -1,7 +1,6 @@
 # LiftingXGBoost-for-Bearing-Faults-Classification
 
-Paper Name:
-A novel bearing fault classification method based on XGBoost: the fusion of deep learning based features and empirical features
+Implementation of "A novel bearing fault classification method based on XGBoost: the fusion of deep learning based features and empirical features".
 
 Final code
 
